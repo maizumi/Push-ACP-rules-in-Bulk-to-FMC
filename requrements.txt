@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######
+requests
+csv
+json
+requests.auth
+getpass
+os
+flask
+werkzeug.utils
