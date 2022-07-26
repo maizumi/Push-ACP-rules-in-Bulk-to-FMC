@@ -12,8 +12,7 @@ Hierarchy should be like below. <br>
  <br>
 FMC_AC_RULE_BULK.py <br>
 L templates <br>
-  L index.html <br>
-  L base.html <br>
+  L index2.html <br>
 L static <br>
   L fpr.png << this can be whatever you want to display on index2.html<br> 
 L uploads <br>
