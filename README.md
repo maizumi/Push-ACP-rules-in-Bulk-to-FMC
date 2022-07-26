@@ -11,7 +11,7 @@ L templates <br>
   L index.html <br>
   L base.html <br>
 L static <br>
-  L fpr_icon.jpeg <br>
+  L fpr.png << this can be whatever you want to display on index2.html<br> 
 L uploads <br>
   L {uploaded file will be saved here} <br>
  <br>
