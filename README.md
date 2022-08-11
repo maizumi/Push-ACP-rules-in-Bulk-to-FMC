@@ -1,4 +1,4 @@
-[![Watch the video](https://i9.ytimg.com/vi/1nPtBRju6Ag/mq1.jpg?sqp=CNzszpcG&rs=AOn4CLBCgsWceQCbd3DXpBhWofF651ciAg)](https://youtu.be/1nPtBRju6Ag)
+[![Watch the video](https://i9.ytimg.com/vi/1nPtBRju6Ag/mq2.jpg?sqp=CNCZ0pcG&rs=AOn4CLCF2csanCF2jU7j5FrPUFV6Fngr6w)](https://youtu.be/1nPtBRju6Ag)
 
 # Push-ACP-rules-in-Bulk-to-FMC <br>
 #Push ACP access rules in bulk to FMC through web app(flask) <br>
