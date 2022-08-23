@@ -1,6 +1,6 @@
 <h2>Youtube video</h2> <br>
 
-[![Watch the video](https://i9.ytimg.com/vi/1nPtBRju6Ag/mq1.jpg?sqp=CNCZ0pcG&rs=AOn4CLCJi-CU9PC3kT5MCipeMoQN_4-T2g)](https://youtu.be/1nPtBRju6Ag)
+[![Watch the video](https://img.youtube.com/vi/1nPtBRju6Ag/0.jpg)](https://youtu.be/1nPtBRju6Ag)
 
 # Push-ACP-rules-in-Bulk-to-FMC <br>
 #Push ACP access rules in bulk to FMC through web app(flask) <br>
