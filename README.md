@@ -4,7 +4,8 @@
 
 <H1>IMPORTANT NOTICE</H1>
 1.Please prepare objects before using this app. If FMC doesn't have objects using this app, then you might get an error.<br>
-2.If you got an error, check csv file objects and FMC objects.<br><br>
+2.If you got an error, check csv file objects and FMC objects.<br>
+#If you'd like to deploy hundreds of objects, then you can use my "Push bulk ojects" app in different repository.
 
 # Push-ACP-rules-in-Bulk-to-FMC <br>
 #Push ACP access rules in bulk to FMC through web app(flask) <br>
