@@ -3,8 +3,8 @@
 [![Watch the video](https://img.youtube.com/vi/1nPtBRju6Ag/0.jpg)](https://youtu.be/1nPtBRju6Ag)
 
 <H1>IMPORTANT NOTICE</H1>
-1.Please prepare objects before using this app. If FMC doesn't have objects using this app, then you might get an error.<br>
-2.If you got an error, check csv file objects and FMC objects.<br>
+1.Please prepare objects before using this app. If FMC doesn't have objects using this app, then you will get an error.<br>
+2.If you got an error, check objects in csv file and FMC objects. Also security zones must be matched with csv file and FMC configured.<br>
 #If you'd like to deploy hundreds of objects, then you can use my "Push-Objects-in-Bulk-to-FMC" app in different repository.
 
 # Push-ACP-rules-in-Bulk-to-FMC <br>
